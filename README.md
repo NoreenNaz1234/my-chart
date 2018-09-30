@@ -23,5 +23,6 @@ Example. country: Asia, population: 43000
 
 ### You can see my work here
 
-https://noreennaz1234.github.io/chart-sheet/
+
+https://noreennaz1234.github.io/my-chart/
 
