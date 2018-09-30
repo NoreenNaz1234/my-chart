@@ -10,7 +10,7 @@ function fetchData() {
 
 
 $.ajax({
-		url: `http://api.population.io:80/1.0/population/1980/aged/18/`,
+		url: `https://api.population.io:80/1.0/population/1980/aged/18/`,
 		success: function (apidata) {
 			
 
